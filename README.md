@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-*I like learning new things*.
+*I like learning new things!* 
 
 ---
 
@@ -41,6 +41,7 @@
 | Project | Description | Tech Stack | |
 |:---|:---|:---|:---:|
 |  **AI Equity Research** | AI-powered research workflow for analyzing companies using financial data and retrieval-augmented generation. | `Python` `Streamlit` `LangChain` `Gemini` | [View →](#) |
+|  **PocketSRE** | In pocket SRE models that allows immediate review and changes to problems that cause your idea to stop working. | `TypeScript` `React Native` `Node.js` | [View →](#) |
 
 ---
 
