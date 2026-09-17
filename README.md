@@ -16,11 +16,9 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student at **VIT Vellore** who enjoys building software, experimenting with new technologies, and turning ideas into practical projects.
+*I like learning new things*.
 
-Currently exploring **software development, AI, and systems**.
-
-<br>
+---
 
 <!-- TECH STACK -->
 
@@ -34,55 +32,46 @@ Currently exploring **software development, AI, and systems**.
   <img src="https://skillicons.dev/icons?i=streamlit,r,vercel" />
 </p>
 
-<br>
+---
 
-<!-- PROJECTS -->
+<!-- FEATURED PROJECTS -->
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+| Project | Description | Tech Stack | |
+|:---|:---|:---|:---:|
+|  **AI Equity Research** | AI-powered research workflow for analyzing companies using financial data and retrieval-augmented generation. | `Python` `Streamlit` `LangChain` `Gemini` | [View →](#) |
 
-<td width="50%" valign="top">
+---
 
-<h3>🤖 AI Equity Research</h3>
+<!-- CONNECT -->
 
-An AI-powered research workflow for analyzing companies using financial data and retrieval-augmented generation.
+## 📫 Let's Connect
 
-<br>
+<p align="center">
 
-<b>Tech</b>
-
-<br><br>
-
-<code>Python</code>
-<code>Streamlit</code>
-<code>LangChain</code>
-<code>Gemini</code>
-
-<br><br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/pr1ank">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<a href="https://www.linkedin.com/in/priyankgarg05/">
+  <img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
 
-</tr>
-</table>
+<a href="mailto:priyankgarg2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 <br>
 
-<!-- CURRENTLY -->
+<p align="center">
+  <i>Build. Learn. Repeat.</i>
+</p>
 
-## 💻 Currently
+<!-- FOOTER -->
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🔭 Building        Software Projects      │
-│   🧠 Learning        AI & System Design     │
-│   💡 Exploring       New Technologies       │
-│   ⚡ Improving        Every Day              │
-│                                             │
-└─────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:172554,100:0f172a&height=90&section=footer" width="100%"/>
+</p>
