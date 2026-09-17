@@ -1,29 +1,30 @@
-<h1 align="center">PRIYANK GARG</h1>
+<!-- HEADER -->
 
 <p align="center">
-  Computer Science Student &nbsp;|&nbsp; Developer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:1d4ed8&height=180&section=header&text=PRIYANK%20GARG&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20%7C%20Developer&descAlignY=64&descSize=16" width="100%"/>
 </p>
+
+<!-- TYPING -->
 
 <p align="center">
-  <a href="https://github.com/pr1ank">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+things+that+solve+problems;Learning+something+new+every+day;Code+%7C+Build+%7C+Learn" />
 </p>
 
----
+<br>
 
-## About Me
+<!-- ABOUT -->
 
-I'm a Computer Science student at **VIT Vellore** who enjoys building software,
-working with new technologies, and turning ideas into practical projects.
+## 👋 About Me
 
-Currently interested in **software development, AI, and systems**.
+I'm a Computer Science student at **VIT Vellore** who enjoys building software, experimenting with new technologies, and turning ideas into practical projects.
 
----
+Currently exploring **software development, AI, and systems**.
 
-## Tech Stack
+<br>
+
+<!-- TECH STACK -->
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,git,github,aws" />
@@ -33,26 +34,55 @@ Currently interested in **software development, AI, and systems**.
   <img src="https://skillicons.dev/icons?i=streamlit,r,vercel" />
 </p>
 
----
+<br>
 
-## Featured Projects
+<!-- PROJECTS -->
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| **AI Equity Research** | AI-powered research workflow for analyzing companies using financial data and retrieval-augmented generation. | `Python` `Streamlit` `LangChain` `Gemini` |
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
 
-## Let's Connect
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/pr1ank">GitHub</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+<h3>🤖 AI Equity Research</h3>
 
-<p align="center">
-  <i>Build. Learn. Repeat.</i>
-</p>
+An AI-powered research workflow for analyzing companies using financial data and retrieval-augmented generation.
+
+<br>
+
+<b>Tech</b>
+
+<br><br>
+
+<code>Python</code>
+<code>Streamlit</code>
+<code>LangChain</code>
+<code>Gemini</code>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- CURRENTLY -->
+
+## 💻 Currently
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   🔭 Building        Software Projects      │
+│   🧠 Learning        AI & System Design     │
+│   💡 Exploring       New Technologies       │
+│   ⚡ Improving        Every Day              │
+│                                             │
+└─────────────────────────────────────────────┘
